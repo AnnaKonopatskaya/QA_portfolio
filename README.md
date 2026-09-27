@@ -22,6 +22,6 @@
 ## Контакты
 
 <!-- добавьте свои контакты, например: -->
-- Telegram: 
-- Email: 
-- LinkedIn / hh.ru: 
+- Telegram: @konopatskayaya
+- Email: icldbgd16@gmail.com
+- hh.ru: https://krasnodar.hh.ru/resume/ad96124cff1119bbb30039ed1f58636c567630
